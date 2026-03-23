@@ -2,6 +2,9 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable
 
+
+
+println("##################################Test Case STARTED#######################")
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://practicetestautomation.com/practice-test-login/')
