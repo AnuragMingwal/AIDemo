@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positive login scenario for the Practice Login Test App</description>
+   <name>TC_Positive_Login_Scenario</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3cea3f6b-f350-4051-bd58-a643cf7daff0</testCaseGuid>
+</TestCaseEntity>
